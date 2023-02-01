@@ -1,0 +1,15 @@
+one_to_many  & one to one
+
+Post
+  
+
+Video
+ 
+
+
+Comment
+   commentable_id    1     2     3
+   commentable_type  Post  Post  Video
+
+
+   VİDEO : https://www.youtube.com/watch?v=QAfTYrDhdHE&list=PL1TrjkMQ8UbVyIT0cDX-54gN5tunWZvaI&index=8
